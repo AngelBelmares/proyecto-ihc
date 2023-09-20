@@ -17,4 +17,5 @@ if (1 === 1) {
     console.log("Hola mundo");
 } else {
     console.log("Adios mundo");
-}
+} 
+// Path: package.json
